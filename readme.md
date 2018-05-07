@@ -1,13 +1,19 @@
 # HASH Genomics Whitepapers
 
-Markdown source codes of HASH Genomics Whitepapers.
+Markdown source codes of HASH Genomics documents.
+
+HASH Genomics Whitepapers：
 
 * For Chinese version: [hash_cn.md](../../blob/master/hash_cn.md)
 * For English version: hash_en.md (in progress)
 
-Other documents:
+HASH Genomics User Guides：
 
-* HASH User Guide
+* Chinese：[user_guide_cn.md](../../blob/master/user_guide_cn.md)
+* English：in progress
+
+Other documents in progress:
+
 * HASH Researcher Guide
 * HASH Third-party App developer Guide
 
